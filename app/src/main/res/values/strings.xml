@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TodoIt</string>
+    <string name="task_text">This is a sample task inside the application</string>
 </resources>
